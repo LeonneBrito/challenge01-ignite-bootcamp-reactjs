@@ -10,4 +10,7 @@ Desafio 01: Conceitos do ReactJS
    </a>
   <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235965E0" />
   <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235965E0">
+  <a href="mailto:contato@leonnebrito.com.br">
+   <img alt="Email" src="https://img.shields.io/badge/-contato%40leonnebrito.com.br-%23525DCB" />
+  </a>
 </p>
