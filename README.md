@@ -41,6 +41,6 @@ Para esse desafio, temos os seguintes testes:
 # :page_facing_up: Licença
 
 Esse projeto está sob a licença [MIT](./LICENSE).
-Feito com 💖 por [Leonne Brito](https://www.linkedin.com/in/leonne-sousa-brito/). 
 
+Feito com 💖 por [Leonne Brito](https://www.linkedin.com/in/leonne-sousa-brito/). 
 Desafio proposto com 💜 by Rocketseat 👋 [Entre nessa grande comunidade!](https://discordapp.com/invite/gCRAFhc)
