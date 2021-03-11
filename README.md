@@ -11,7 +11,7 @@ Desafio 01: Conceitos do ReactJS
   <img alt="Languages" src="https://img.shields.io/github/languages/count/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235963C5" />
   <img alt="repo-size" src="https://img.shields.io/github/repo-size/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235761C3" />
   <img alt="lastcommit" src="https://img.shields.io/github/last-commit/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235761C3" />
-  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235965E0" />
+  <img alt="License" src="https://img.shields.io/github/license/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235E69D7" />
   <img alt="Issues" src="https://img.shields.io/github/issues/LeonneBrito/desafio01-ignite-trilha-reactjs?color=%235965E0">
   <a href="mailto:contato@leonnebrito.com.br">
    <img alt="Email" src="https://img.shields.io/badge/-contato%40leonnebrito.com.br-%23525DCB" />
