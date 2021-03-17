@@ -39,7 +39,7 @@ For this challenge, we have the following tests:
 
 - **should be able to remove the task**: In order for this test to pass, you must allow that when clicking on the button with a trash icon, the task related to that button is removed from the state of the application, consequently being removed from the screen.
 
-- **should be able to check a task**: For this test to pass, you must allow that when clicking on the checkbox next to the task, it is marked as completed or not completed according to its current state, changing its value from `isComplete` to` false` to `true` or conversely, from `true` to `false`.
+- **should be able to check a task**: For this test to pass, you must allow that when clicking on the checkbox next to the task, it is marked as completed or not completed according to its current state, changing its value from `isComplete` to `false` to `true` or conversely, from `true` to `false`.
 
 # :page_facing_up: License
 
